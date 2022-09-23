@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Chicago Tribune"
+            },
+            "author": "Jason Meisner, Megan Crepeau",
+            "title": "R. Kelly's federal trial in Chicago results in split verdict; singer faces possibility of longer prison term after conviction on child pornography charges - Chicago Tribune",
+            "description": "A federal jury in Chicago on Wednesday convicted disgraced R&B singer R. Kelly on child pornography charges for making videotapes of himself sexually abusing his then-14-year-old goddaughter decades ago.",
+            "url": "https://www.chicagotribune.com/news/criminal-justice/ct-r-kelly-chicago-federal-trial-verdict-20220914-fkhxtut63vd43n4nnqmv7fqxju-story.html",
+            "urlToImage": "https://www.chicagotribune.com/resizer/l2_LVkQGIT614EfINfpWXhbGeJA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZDH2VEMOHRGNBLTVY2RILPRV4E.JPG",
+            "publishedAt": "2022-09-15T02:26:52Z",
+            "content": "It took more than two decades for Jane to come forward about the sexual abuse she suffered at the hands of her godfather, R&amp;B superstar R. Kelly.\r\nAnd in the end, a federal jury in Chicago believ… [+14571 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Biden, unions, rail executives struggle for deal as shutdown looms - Reuters",
+            "description": "Biden administration officials hosted labor contract talks late on Wednesday to avert a potential rail shutdown that could disrupt cargo shipments and impede food and fuel supplies, but one small union rejected a deal and Amtrak canceled all long-distance pas…",
+            "url": "https://www.reuters.com/world/us/us-hosting-talks-with-union-railroads-avert-shutdown-2022-09-14/",
+            "urlToImage": "https://www.reuters.com/resizer/benFqfh7CZQcJqV8HQtbeHlPvnc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R4J7BLNWJFPRVA65RMQREHQRIM.jpg",
+            "publishedAt": "2022-09-15T01:50:00Z",
+            "content": "DETROIT/LOS ANGELES, Sept 14 (Reuters) - Biden administration officials hosted labor contract talks late on Wednesday to avert a potential rail shutdown that could disrupt cargo shipments and impede … [+5086 chars]"
+        }
+    ]
+}
