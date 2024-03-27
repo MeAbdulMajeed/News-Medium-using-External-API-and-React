@@ -9,6 +9,6 @@ This is a React.js News Medium app that displays real-time news using the news.o
 
 ### Features
 
-Real-time news updates from the news.org API.
-Category filtering for browsing news articles by topic.
-Infinite scroll for continuous news browsing experience.
+-  Real-time news updates from the news.org API.
+-  Category filtering for browsing news articles by topic.
+-  Infinite scroll for continuous news browsing experience.
