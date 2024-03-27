@@ -1,40 +1,17 @@
-# Screenshots
+## Screenshots
 
-![Screenshot (300)](https://github.com/MeAbdulMajeed/News-Medium-using-External-API-and-React/assets/87408391/c1e716a1-e3c1-4b9c-87e3-17ed8e6f2556)
-![Screenshot (302)](https://github.com/MeAbdulMajeed/News-Medium-using-External-API-and-React/assets/87408391/a6c2d713-e5da-458d-b829-d2cee7777143)
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="(https://github.com/MeAbdulMajeed/News-Medium-using-External-API-and-React/assets/87408391/c1e716a1-e3c1-4b9c-87e3-17ed8e6f2556)" alt="Screenshot 1" width="200" height="200">
+<img src="(https://github.com/MeAbdulMajeed/News-Medium-using-External-API-and-React/assets/87408391/a6c2d713-e5da-458d-b829-d2cee7777143)" alt="Screenshot 1" width="200" height="200">
 
-## Availab![Screenshot (300)](https://github.com/MeAbdulMajeed/News-Medium-using-External-API-and-React/assets/87408391/b5e1600d-6622-40bf-aa12-535cd9cc7a96)
-le Scripts
+!(https://github.com/MeAbdulMajeed/News-Medium-using-External-API-and-React/assets/87408391/c1e716a1-e3c1-4b9c-87e3-17ed8e6f2556)
+!(https://github.com/MeAbdulMajeed/News-Medium-using-External-API-and-React/assets/87408391/a6c2d713-e5da-458d-b829-d2cee7777143)
 
-In the project directory, you can run:
+## News App
 
-### `npm start`
+This is a React.js News Medium app that displays real-time news using the news.org API. It allows users to browse news articles by category and provides infinite scrolling for seamless news browsing.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
+Real-time news updates from the news.org API.
+Category filtering for browsing news articles by topic.
+Infinite scroll for continuous news browsing experience.
